@@ -1,6 +1,8 @@
 <html>
 <body>
 <title> Rajkumar K and 5f354c41 </title>
+  <title> Rajkumar K and 5f354c41 </title>
+  <title> Rajkumar K and 5f354c41 </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
