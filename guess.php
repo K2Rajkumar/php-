@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Rajkumar.K as '5f354c41' </title>
+<title> 5f354c4 </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
